@@ -1,4 +1,4 @@
-# Offline QR code generator
+# Offline QR code import / scanner
 Wrote my own webapp for QR code generator. No need internet access, clean codes.
 Can be used for those company laptop with restricted access.
 
