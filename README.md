@@ -1,6 +1,9 @@
 # Offline QR code generator
 
-Wrote my own webapp for QR code generator. No need internet access, clean codes.
+[QR Code Generator](https://wingsmaker.github.io/crypto/qrgen.html)
+
+
+Webapp for QR code generator. No need internet access, clean codes.
 Can be used for those company laptop with restricted access.
 
 Background
