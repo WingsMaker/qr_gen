@@ -1,6 +1,6 @@
 # Offline QR code generator
 
-[QR Code Generator](https://wingsmaker.github.io/crypto/qrgen.html)
+[QR Code Generator](https://wingsmaker.github.io/Github/qrgen.html)
 
 
 Webapp for QR code generator. No need internet access, clean codes.
